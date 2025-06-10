@@ -1,6 +1,6 @@
 ApiEndpoint
 
-Find hidden API endpoints and paths from JavaScript files of any website.
+Powerful python script that find hidden API endpoints and paths from JavaScript files of any website.
 
 Features:
 
